@@ -2,11 +2,13 @@
 
 자기 소개<br>
 
-📚 [Blog](https://chachablog.vercel.app/)
+🧾 [Resume.](https://chachablog.vercel.app/about/)
 
-📋 [Planner](https://www.notion.so/PLANNER-e0ce734f808f4a2fbad6fd7ba37e2f62)
+📚 [Blog.](https://chachablog.vercel.app/)
 
-📫 [Email](mailto:cha3088@gmail.com)
+📋 [Planner.](https://www.notion.so/PLANNER-e0ce734f808f4a2fbad6fd7ba37e2f62)
+
+📫 [Email.](mailto:cha3088@gmail.com)
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaCha3088&count_private=true&theme=gruvbox)](https://github.com/ChaCha3088?tab=repositories)
   

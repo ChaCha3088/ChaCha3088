@@ -2,11 +2,11 @@
 
 자기 소개<br>
 
-📫 [Email](mailto:cha3088@gmail.com)
-
 📚 [Blog](https://chachablog.vercel.app/)
 
 📋 [Planner](https://www.notion.so/PLANNER-e0ce734f808f4a2fbad6fd7ba37e2f62)
+
+📫 [Email](mailto:cha3088@gmail.com)
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaCha3088&count_private=true&theme=gruvbox)](https://github.com/ChaCha3088?tab=repositories)
   

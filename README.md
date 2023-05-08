@@ -2,9 +2,7 @@
 
 # 실패한 과거를 디딤돌로 미래를 보는 개발자, Cha Cha
 
-### 🧾 [Resume.](https://chachablog.vercel.app/about/)
-
-📚 [Blog.](https://chachablog.vercel.app/)
+🧾 [Resume.](https://chachablog.vercel.app/about/) 📚 [Blog.](https://chachablog.vercel.app/)
 
 📋 [Planner.](https://www.notion.so/PLANNER-e0ce734f808f4a2fbad6fd7ba37e2f62)
 

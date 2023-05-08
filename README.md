@@ -1,6 +1,6 @@
 <div align="center">
 
-자기 소개<br>
+실패한 과거를 디딤돌로 미래를 보는 개발자, Cha Cha<br>
 
 🧾 [Resume.](https://chachablog.vercel.app/about/)
 

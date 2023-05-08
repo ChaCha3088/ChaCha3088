@@ -1,8 +1,8 @@
 <div align="center">
 
-# 실패한 과거를 디딤돌로 미래를 보는 개발자, Cha Cha<br>
+# 실패한 과거를 디딤돌로 미래를 보는 개발자, Cha Cha
 
-  🧾 <u>[Resume.](https://chachablog.vercel.app/about/)</u>
+🧾 [Resume.](https://chachablog.vercel.app/about/)
 
 📚 [Blog.](https://chachablog.vercel.app/)
 

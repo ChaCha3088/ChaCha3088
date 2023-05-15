@@ -4,7 +4,7 @@
 
 ### 🧾 [Resume.](https://chachablog.vercel.app/about/){:target="_blank"}&nbsp;&nbsp; 📚 [Blog.](https://chachablog.vercel.app/){:target="_blank"}&nbsp;&nbsp; 📋 [Planner.](https://www.notion.so/PLANNER-e0ce734f808f4a2fbad6fd7ba37e2f62){:target="_blank"}&nbsp;&nbsp; 📫 [Email.](mailto:cha3088@gmail.com){:target="_blank"}
   
-  <a href="[https://www.google.com/](https://chachablog.vercel.app/about/)" target="_blank">Resume.</a>
+  <a href="https://chachablog.vercel.app/about/" target="_blank">Resume.</a>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaCha3088&count_private=true&theme=gruvbox)](https://github.com/ChaCha3088?tab=repositories) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaCha3088&layout=compact&theme=gruvbox)](https://github.com/ChaCha3088?tab=repositories)
   

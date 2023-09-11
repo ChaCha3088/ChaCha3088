@@ -1,6 +1,6 @@
 <div align="center">
 
-# 실패한 과거를 디딤돌로 미래를 보는 개발자, Cha Cha
+# Carpe Diem!, Cha Cha
 
 ### 🧾 [Resume.](https://chachablog.vercel.app/about/)&nbsp;&nbsp; 📚 [Blog.](https://chachablog.vercel.app/)&nbsp;&nbsp; 👨🏻‍🎓 [Study.](https://chachablog.vercel.app/?tag=%F0%9F%93%9A+Study)&nbsp;&nbsp; 📋 [Planner.](https://www.notion.so/PLANNER-e0ce734f808f4a2fbad6fd7ba37e2f62)&nbsp;&nbsp; 📫 [Email.](mailto:cha3088@gmail.com)
     

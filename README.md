@@ -8,7 +8,7 @@
   
   [![mazandi profile](http://mazandi.herokuapp.com/api?handle=cha3088&theme=dark)](https://solved.ac/cha3088)
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChaCha3088&repo=MyLittleStore&theme=gruvbox)](https://github.com/ChaCha3088/MyLittleStore) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChaCha3088&repo=OAuth2.0-JWT&theme=gruvbox)](https://github.com/ChaCha3088/OAuth2.0-JWT)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChaCha3088&repo=DIVA&theme=gruvbox)](https://github.com/ChaCha3088/DIVA) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letmeknowmyfriend&repo=letmeknow-backend&theme=gruvbox)](https://github.com/ChaCha3088/letmeknow-backend)
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchacha3088&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23555555&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
   

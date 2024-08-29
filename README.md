@@ -20,15 +20,15 @@
 
 ## 🥇 Certificates
 
-2023.10 : SQLD
+2023.10 : *SQLD*
 
-2023.09 : OPIc IH
+2023.09 : *OPIc IH*
 
-2023.08 : 건축학과 학사
+2023.08 : *건국대학교 건축학과 학사*
 
-2022.12 : 건축기사
+2022.12 : *건축기사*
 
-2020.11 : 지게차운전기능사
+2020.11 : *지게차운전기능사*
 
 ## 🏆 Awards
 
@@ -55,6 +55,9 @@
 🎓 2017.03 - 2023.08 : *건국대학교 건축학과*
 
 🌎 2013.07 - 2014.08 : *Texas Conroe High Exchange Student Junior Year*
+
+## 🚀 Projects
+
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChaCha3088&repo=DIVA&theme=gruvbox)](https://github.com/ChaCha3088/DIVA) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letmeknowmyfriend&repo=letmeknow-backend&theme=gruvbox)](https://github.com/letmeknowmyfriend/letmeknow-backend)
 

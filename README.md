@@ -59,7 +59,7 @@
 ## 🚀 Projects
 
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChaCha3088&repo=DIVA&theme=gruvbox)](https://github.com/ChaCha3088/DIVA) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letmeknowmyfriend&repo=letmeknow-backend&theme=gruvbox)](https://github.com/letmeknowmyfriend/letmeknow-backend)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChaCha3088&repo=DIVA&theme=gruvbox)](https://github.com/ChaCha3088/DIVA) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChaCha3088&repo=https://github.com/ChaCha3088&theme=gruvbox)](https://github.com/letmeknowmyfriend/letmeknow-backend) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letmeknowmyfriend&repo=letmeknow-backend&theme=gruvbox)](https://github.com/letmeknowmyfriend/letmeknow-backend)
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cha3088)](https://solved.ac/cha3088)
   

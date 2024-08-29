@@ -3,7 +3,9 @@
 # Carpe Diem!, Cha Cha
 
 ### 🧾 [Resume.](https://chachablog.vercel.app/about/)&nbsp;&nbsp; 📚 [Blog.](https://chachablog.vercel.app/)&nbsp;&nbsp; 👨🏻‍🎓 [Study.](https://chachablog.vercel.app/?tag=%F0%9F%93%9A+Study)&nbsp;&nbsp; 📋 [Planner.](https://www.notion.so/PLANNER-e0ce734f808f4a2fbad6fd7ba37e2f62)&nbsp;&nbsp; 📫 [Email.](mailto:cha3088@gmail.com)
-  
+</div>
+
+<div align="center">
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChaCha3088&repo=DIVA&theme=gruvbox)](https://github.com/ChaCha3088/DIVA) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letmeknowmyfriend&repo=letmeknow-backend&theme=gruvbox)](https://github.com/letmeknowmyfriend/letmeknow-backend)
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cha3088)](https://solved.ac/cha3088)

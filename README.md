@@ -4,7 +4,7 @@
 ### 💡 문제를 주도적으로 정의하여 솔루션을 제시하는 개발자, Cha Cha 입니다.
 
 ---
-### 🧾 [Resume.](https://chachablog.vercel.app/about/)&nbsp;&nbsp; 📚 [Blog.](https://chachablog.vercel.app/)&nbsp;&nbsp; 👨🏻‍🎓 [Study.](https://chachablog.vercel.app/?tag=%F0%9F%93%9A+Study)&nbsp;&nbsp; 📋 [Planner.](https://www.notion.so/PLANNER-e0ce734f808f4a2fbad6fd7ba37e2f62)&nbsp;&nbsp; 📫 [Email.](mailto:cha3088@gmail.com)
+### 🧾 [Resume.](https://chachablog.vercel.app/about/)&nbsp;&nbsp; 📚 [Blog.](https://chachablog.vercel.app/)&nbsp;&nbsp; 👨🏻‍🎓 [Study.](https://chachablog.vercel.app/?tag=%F0%9F%93%9A+Study)&nbsp;&nbsp; 📫 [Email.](mailto:cha3088@gmail.com)
 ---
 ## Tech Stack
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">

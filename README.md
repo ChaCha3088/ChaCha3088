@@ -4,7 +4,7 @@
 ### 💡 문제를 주도적으로 정의하여 솔루션을 제시하는 개발자, Cha Cha 입니다.
 
 ---
-### 🧾 [Resume.](https://chachablog.vercel.app/about/)&nbsp;&nbsp; 📚 [Blog.](https://chachablog.vercel.app/)&nbsp;&nbsp; 👨🏻‍🎓 [Study.](https://chachablog.vercel.app/?tag=%F0%9F%93%9A+Study)&nbsp;&nbsp; 📫 [Email.](mailto:cha3088@gmail.com)
+### 🧾 [Resume.](https://chachablog.vercel.app/about)&nbsp;&nbsp; 📚 [Blog.](https://chachablog.vercel.app/)&nbsp;&nbsp; 👨🏻‍🎓 [Study.](https://chachablog.vercel.app/?tag=%F0%9F%93%9A+Study)&nbsp;&nbsp; 📫 [Email.](mailto:cha3088@gmail.com)
 ---
 ## Tech Stack
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
@@ -24,9 +24,9 @@
 
 2023.09 : *OPIc IH*
 
-2023.08 : *건국대학교 건축학과 학사*
+2023.08 : *학사*
 
-2022.12 : *건축기사*
+2022.12 : *기사*
 
 2020.11 : *지게차운전기능사*
 
@@ -50,16 +50,12 @@
 
 📝 2022.06 : *대한설비공학회 하계학술발표대회 '1인 가구 에너지 사용량을 이용한 재실자 스케쥴 파악' 논문 발표*
 
-✏️ 2021.08 - 2022.08 : *건국대학교 건축대학 건축 환경 및 에너지 연구실*
-
-🎓 2017.03 - 2023.08 : *건국대학교 건축학과*
-
-🌎 2013.07 - 2014.08 : *Texas Conroe High Exchange Student Junior Year*
+🌎 2013.07 - 2014.08 : *Texas Exchange Student Junior Year*
 
 ## 🚀 Projects
 <div align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChaCha3088&repo=DIVA&theme=gruvbox)](https://github.com/ChaCha3088/DIVA) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChaCha3088&repo=FitMe&theme=gruvbox)](https://github.com/ChaCha3088/FitMe) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=letmeknowmyfriend&repo=letmeknow-backend&theme=gruvbox)](https://github.com/letmeknowmyfriend/letmeknow-backend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChaCha3088&repo=DIVA&theme=gruvbox)](https://github.com/ChaCha3088/DIVA) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ChaCha3088&repo=FitMe&theme=gruvbox)](https://github.com/ChaCha3088/FitMe)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cha3088)](https://solved.ac/cha3088)
 
